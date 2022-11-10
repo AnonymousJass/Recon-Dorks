@@ -1,12 +1,7 @@
 # Recon-Dorks
 
-# site:http://codepad.co "company"
-# site:http://scribd.com "company"
-# site:http://npmjs.com "company"
-site:http://npm.runkit.com "company"
-site:http://libraries.io "company"
-site:http://ycombinator.com "company"
-site:http://coggle.it "company"
+* inator.com "company"
+* site:http://coggle.it "company"
 site:http://papaly.com "company"
 site:http://google.com "company"
 site:http://trello.com "company"
