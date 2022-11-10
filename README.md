@@ -1,8 +1,8 @@
 # Recon-Dorks
 
-site:http://codepad.co "company"
-site:http://scribd.com "company"
-site:http://npmjs.com "company"
+# site:http://codepad.co "company"
+# site:http://scribd.com "company"
+# site:http://npmjs.com "company"
 site:http://npm.runkit.com "company"
 site:http://libraries.io "company"
 site:http://ycombinator.com "company"
